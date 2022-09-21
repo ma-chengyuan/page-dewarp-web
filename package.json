@@ -12,7 +12,7 @@
     "vue": "^2.6.10",
     "fabric": "^3.5.1",
     "mathjs": "^6.2.5",
-    "vuetify": "^2.1.0",
+    "vuetify": "^2.6.10",
     "vue-worker": "^1.2.1"
   },
   "devDependencies": {
